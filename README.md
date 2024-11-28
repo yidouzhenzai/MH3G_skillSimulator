@@ -1,4 +1,4 @@
-# 🎮 **MH3G Skill Simulator** 🛡️
+# 🎮 **MH3G/3U Skill Simulator** 🛡️
 
 ![MH3G Skill Simulator](https://via.placeholder.com/800x400.png?text=Your+Simulator+Screenshot+Here)
 
