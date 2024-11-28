@@ -1,7 +1,6 @@
 # 🎮 **MH3G/3U Skill Simulator** 🛡️
 
-![MH3G Skill Simulator](https://via.placeholder.com/800x400.png?text=Your+Simulator+Screenshot+Here)
-
+![mh3g](https://github.com/user-attachments/assets/ce4a261f-1d83-4f4b-b766-0c6d2ebd18dc)
 ---
 
 ## 🌟 **About the Project**
