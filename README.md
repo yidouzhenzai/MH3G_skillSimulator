@@ -40,6 +40,7 @@ Feel free to modify, share, and enhance this simulator as you like!
 Here's an example of what the simulator's output looks like:
 
 ![simu1](https://github.com/user-attachments/assets/4967c976-00f6-4841-81b6-048b4d192c1c)
+![simu2](https://github.com/user-attachments/assets/0fd7762b-0268-474a-9fba-006bb4b96dac)
 
 ---
 
