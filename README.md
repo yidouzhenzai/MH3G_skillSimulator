@@ -39,7 +39,7 @@ Feel free to modify, share, and enhance this simulator as you like!
 ## 🖼️ **Preview**
 Here's an example of what the simulator's output looks like:
 
-![Simulator Preview](https://via.placeholder.com/800x400.png?text=Simulation+Result+Preview)
+![simu1](https://github.com/user-attachments/assets/4967c976-00f6-4841-81b6-048b4d192c1c)
 
 ---
 
