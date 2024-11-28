@@ -30,7 +30,7 @@ Feel free to modify, share, and enhance this simulator as you like!
 
 ## 🚀 **How to Use**
 1. Make sure you have **Java Runtime Environment (JRE)** installed.  
-2. Clone the repository and navigate to the `src` folder.  
+2. Clone the repository and navigate to the `src/skill_simulation` folder.  
 3. Run the simulation program using your preferred Java IDE or terminal.  
 4. View your simulation results, sorted by available slots.
 
