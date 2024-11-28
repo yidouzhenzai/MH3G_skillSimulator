@@ -17,7 +17,7 @@ This is a skill simulation tool designed for **Monster Hunter 3G/3U** enthusiast
 
 ## 💻 **Technical Details**
 - **Language**: Written in **Java**. Ensure you have a Java environment installed to run the simulator.
-- **Source Code**: Located in the `src` directory.  
+- **Source Code**: Located in the `src/skill_simulation` directory.  
 - **Excel Data**: Supporting data files are available in the `excel_data` folder.
 
 ---
